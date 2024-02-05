@@ -1,0 +1,7 @@
+num1= 56
+num2= 68
+
+sum= num1+num2
+#display the sum
+print('{0} plus {1} equals {2}'.format(num1,num2,sum))
+
